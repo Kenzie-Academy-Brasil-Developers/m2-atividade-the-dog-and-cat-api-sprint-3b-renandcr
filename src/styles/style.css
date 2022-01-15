@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(124, 173, 175);
+}
+
+.section-dog-cat{
+    margin-top: 130px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.divs-parent{
+    display: flex;
+}
+
+.buttons{
+    width: 202px;
+    height: 40px;
+    background-color: coral;
+    border: none;
+    border-radius: 4px;
+    margin: 5px;
+    color: white;
+    cursor: pointer;
+}
+.divs{
+    width: 200px;
+    height: 220px;
+    border: coral solid 1px;
+    margin: 5px;
+}
+
+.imageDog{
+    max-width: 100%;
+    height: 100%;
+}
+.imageCat{
+    max-width: 100%;
+    height: 100%;
+}
